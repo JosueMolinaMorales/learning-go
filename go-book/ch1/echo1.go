@@ -13,7 +13,8 @@ func main() {
 	// echo3()
 	// dup1()
 	// dup2()
-	Lissajous(os.Stdout)
+	// Lissajous(os.Stdout)
+	StartServer()
 }
 
 func echo1() {
